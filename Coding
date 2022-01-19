@@ -48,7 +48,6 @@ static Scanner sc = new Scanner(System. in );
                 case 4:
                     System.out.println("Sorted array in processing....");
                     sortArray(listuser);
-                    displayArray(listuser);
                     break;               
                 default:
                 	System.out.println("Please enter the correct number!");
