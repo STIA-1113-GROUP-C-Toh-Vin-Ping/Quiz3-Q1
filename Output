@@ -4,7 +4,7 @@ Menu
 2. Display elements of an array
 3. Search the element within array
 4. Sort the Array
-Please select an Option : 1
+Please select an option : 1
 Please enter the element you want to save in the array:
 2
 Please enter the element you want to save in the array:
@@ -20,14 +20,14 @@ Menu
 2. Display elements of an array
 3. Search the element within array
 4. Sort the Array
-Please select an Option : 2
+Please select an option : 2
 The element in the array are 2 1 5 9 8 
 Menu 
 1. Accept elements of an array
 2. Display elements of an array
 3. Search the element within array
 4. Sort the Array
-Please select an Option : 3
+Please select an option : 3
 Enter the number you want to search: 5
 The element found!
 Menu 
@@ -35,7 +35,7 @@ Menu
 2. Display elements of an array
 3. Search the element within array
 4. Sort the Array
-Please select an Option : 3
+Please select an option : 3
 Enter the number you want to search: 4
 The element not found!
 Menu 
@@ -43,7 +43,7 @@ Menu
 2. Display elements of an array
 3. Search the element within array
 4. Sort the Array
-Please select an Option : 4
+Please select an option : 4
 Sorted array in processing....
 1
 2
@@ -56,5 +56,5 @@ Menu
 2. Display elements of an array
 3. Search the element within array
 4. Sort the Array
-Please select an Option : 2
+Please select an option : 2
 The element in the array are 1 2 5 8 9 
