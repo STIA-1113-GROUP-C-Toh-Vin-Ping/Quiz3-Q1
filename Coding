@@ -3,7 +3,7 @@ import java.util.Scanner;
 import java.util.Arrays;   
 public class Quiz3Q1 {
 	
-static Scanner sc = new Scanner(System. in );
+public static Scanner sc = new Scanner(System. in );
     
     public static void main(String[] args) 
     {
