@@ -16,6 +16,7 @@ static Scanner sc = new Scanner(System. in );
         int option;
         do 
         {
+	    System.out.println(" ");
             System.out.println("1. Accept elements of an array");
             System.out.println("2. Display elements of an array");
             System.out.println("3. Search the element within array");
