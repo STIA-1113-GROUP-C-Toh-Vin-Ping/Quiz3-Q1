@@ -21,7 +21,7 @@ static Scanner sc = new Scanner(System. in );
             System.out.println("2. Display elements of an array");
             System.out.println("3. Search the element within array");
             System.out.println("4. Sort the Array");
-            System.out.print("Select an Option : ");
+            System.out.print("Please select an option : ");
             option = sc.nextInt();
            
             switch (option) 
