@@ -1,5 +1,5 @@
 Enter the size of the array: 5
-Menu 
+
 1. Accept elements of an array
 2. Display elements of an array
 3. Search the element within array
@@ -15,14 +15,14 @@ Please enter the element you want to save in the array:
 9
 Please enter the element you want to save in the array:
 8
-Menu 
+ 
 1. Accept elements of an array
 2. Display elements of an array
 3. Search the element within array
 4. Sort the Array
 Please select an option : 2
 The element in the array are 2 1 5 9 8 
-Menu 
+
 1. Accept elements of an array
 2. Display elements of an array
 3. Search the element within array
@@ -30,7 +30,7 @@ Menu
 Please select an option : 3
 Enter the number you want to search: 5
 The element found!
-Menu 
+
 1. Accept elements of an array
 2. Display elements of an array
 3. Search the element within array
@@ -38,7 +38,7 @@ Menu
 Please select an option : 3
 Enter the number you want to search: 4
 The element not found!
-Menu 
+
 1. Accept elements of an array
 2. Display elements of an array
 3. Search the element within array
@@ -50,7 +50,7 @@ Sorted array in processing....
 5
 8
 9
-Menu 
+
 1. Accept elements of an array
 2. Display elements of an array
 3. Search the element within array
